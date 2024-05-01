@@ -5,7 +5,18 @@ const user = {
   lastname: "peres",
   age: 30,
 
-  /*  Method  o Metodos */
+  /*  Method  o Métodos / con funcion(constructores) */
+  /*  
+
+P ¿Qué es un método ?
+ 
+R Son las acciones o instrucciones que realiza una clase, es decir, información 
+o caracteristicas de una clase
+
+E En una clse persona algunos de sus métodos podrían ser : corre, saltar, caminar, comer.
+Acciones y/o instrucciones que puede realizar dicha clase.
+
+*/
   showFullName() {
     return "Ryan Ray blue";
   },
